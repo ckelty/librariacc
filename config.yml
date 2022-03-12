@@ -1,0 +1,71 @@
+baseURL: 'http://libraria.cc/'
+languageCode: 'en-us'
+title: 'L I B R A R I A'
+subtitle: 'A cooperative approach to scholarly publishing in the social sciences'
+theme: PaperMod
+
+params:
+  profileMode:
+        enabled: true
+        title:
+        subtitle: 'A cooperative approach to scholarly publishing in the social sciences'
+        imageUrl: "/images/key-30417_1280-768x384.png"
+        imageTitle: 
+        imageWidth: 420 # custom size
+        imageHeight: 220 # custom size
+     
+
+    
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: Team
+      name: Team
+      url: /team/   
+      weight: 20
+    - identifier: advisory-oversight-board
+      parent: Team
+      name: Advisory Oversight Board
+      url: /team/advisory-oversight-board/
+      weight: 25
+    - identifier: executive committee
+      parent: Team
+      name: Executive Committee
+      url: /team/executive-committee/
+      weight: 28
+    - identifier: program-areas
+      name: Program Areas
+      url: /program-areas/
+      weight: 30
+    - identifier: cooperate-for-open
+      parent: program-areas
+      name: Cooperate for Open
+      url: /program-areas/cooperate-for-open/
+      weight: 32
+    - identifier: scholarly-societies
+      parent: program-areas
+      name: Scholarly Societies
+      url: /program-areas/scholarly-societies/
+      weight: 34
+    - identifier: subscribe-to-open
+      parent: program-areas
+      name: Subscribe To Open
+      url: program-areas/subscribe-to-open/
+      weight: 36
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 40
+    - identifier: cooperate-for-open-report
+      parent: resources
+      name: Cooperate for Open Report
+      url: resources/cooperate-for-open-report/
+      weight: 44
+    - identifier: employment
+      name: Employment
+      url: /employment/
+      weight: 50      
+    
