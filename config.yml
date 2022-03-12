@@ -3,8 +3,11 @@ languageCode: 'en-us'
 title: 'L I B R A R I A'
 subtitle: 'A cooperative approach to scholarly publishing in the social sciences'
 theme: PaperMod
+Copyright: "Libraria - CC BY-ND-SA-4.0 - Since 2015"
 
 params:
+  disableThemeToggle: true
+  defaultTheme: light 
   profileMode:
         enabled: true
         title:

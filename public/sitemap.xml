@@ -2,12 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://libraria.cc/categories/</loc>
+    <lastmod>2022-03-12T11:35:12+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/index.php/2022/03/12/hello-world/</loc>
+    <lastmod>2022-03-12T11:35:12+00:00</lastmod>
+  </url><url>
     <loc>http://libraria.cc/</loc>
+    <lastmod>2022-03-12T11:35:12+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/posts/</loc>
+    <lastmod>2022-03-12T11:35:12+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/categories/uncategorized/</loc>
+    <lastmod>2022-03-12T11:35:12+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/employment/</loc>
+    <lastmod>2022-02-18T09:39:38+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/resources/cooperate-for-open-report/</loc>
+    <lastmod>2021-06-01T07:25:03+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/resources/</loc>
+    <lastmod>2021-06-01T07:17:46+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/team/executive-committee/</loc>
+    <lastmod>2020-01-29T16:16:27+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/team/advisory-oversight-board/</loc>
+    <lastmod>2020-01-29T16:12:09+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/program-areas/cooperate-for-open/</loc>
+    <lastmod>2019-10-21T14:42:59+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/program-areas/scholarly-societies/</loc>
+    <lastmod>2019-10-21T14:26:01+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/program-areas/</loc>
+    <lastmod>2019-10-21T14:03:37+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/index.php/2019/02/01/open-access-for-anthropology-a-model-for-universal-oa/</loc>
+    <lastmod>2019-02-01T09:33:22+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/program-areas/subscribe-to-open/</loc>
+    <lastmod>2017-10-24T23:01:01+00:00</lastmod>
+  </url><url>
+    <loc>http://libraria.cc/about/</loc>
     <lastmod>2017-05-19T20:49:11+00:00</lastmod>
   </url><url>
-    <loc>http://libraria.cc/categories/</loc>
+    <loc>http://libraria.cc/team/</loc>
+    <lastmod>2016-05-23T20:23:28+00:00</lastmod>
   </url><url>
-    <loc>http://libraria.cc/</loc>
+    <loc>http://libraria.cc/index.php/2015/07/20/welcome-to-libraria/</loc>
+    <lastmod>2015-07-20T15:44:42+00:00</lastmod>
   </url><url>
     <loc>http://libraria.cc/tags/</loc>
   </url>

@@ -5,6 +5,7 @@
     <link>http://libraria.cc/tags/</link>
     <description>Recent content in Tags on L I B R A R I A</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://libraria.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Libraria - CC BY-ND-SA-4.0 - Since 2015</copyright><atom:link href="http://libraria.cc/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Resources on L I B R A R I A</title>
+    <link>http://libraria.cc/resources/</link>
+    <description>Recent content in Resources on L I B R A R I A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Libraria - CC BY-ND-SA-4.0 - Since 2015</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 07:17:46 +0000</lastBuildDate><atom:link href="http://libraria.cc/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooperate for Open Report</title>
+      <link>http://libraria.cc/resources/cooperate-for-open-report/</link>
+      <pubDate>Tue, 01 Jun 2021 07:25:03 +0000</pubDate>
+      
+      <guid>http://libraria.cc/resources/cooperate-for-open-report/</guid>
+      <description>We are delighted to present the results of our Cooperate for Open feasibility study. The full report is available for download here: http://doi.org/10.5281/zenodo.4795689
+In early 2020, Libraria received support from a group of U.S. research libraries to pursue a feasibility study for the Cooperate for Open project. The project, which focused on born-OA, diamond OA, and/or scholar-led open access publications in anthropology and adjacent fields, aimed to identify a model for sustaining these publications, while reducing the risk and workload often associated with this segment of the publishing landscape.</description>
+    </item>
+    
+  </channel>
+</rss>

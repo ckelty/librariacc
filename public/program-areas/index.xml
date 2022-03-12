@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Program Areas on L I B R A R I A</title>
+    <link>http://libraria.cc/program-areas/</link>
+    <description>Recent content in Program Areas on L I B R A R I A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Libraria - CC BY-ND-SA-4.0 - Since 2015</copyright>
+    <lastBuildDate>Mon, 21 Oct 2019 14:03:37 +0000</lastBuildDate><atom:link href="http://libraria.cc/program-areas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooperate for Open</title>
+      <link>http://libraria.cc/program-areas/cooperate-for-open/</link>
+      <pubDate>Mon, 21 Oct 2019 14:42:59 +0000</pubDate>
+      
+      <guid>http://libraria.cc/program-areas/cooperate-for-open/</guid>
+      <description>We have recently set up a new demonstration workspace where we wish to explore how to leverage our relations with libraries and funders to help small OA operations develop sustainable cooperative long-term publishing strategies.
+We are particularly interested in designing experimental cooperative frameworks for existing open access, trans-national STS publications which, for reasons of scale, resources, and the lack of reliable services/partnerships from publishers, find it particularly difficult to get a foothold in our prevalent culture of metrics.</description>
+    </item>
+    
+    <item>
+      <title>Scholarly Societies</title>
+      <link>http://libraria.cc/program-areas/scholarly-societies/</link>
+      <pubDate>Mon, 21 Oct 2019 14:26:01 +0000</pubDate>
+      
+      <guid>http://libraria.cc/program-areas/scholarly-societies/</guid>
+      <description>Since our foundation Libraria has liaised with, advocated for, as well as designed and developed ad-hoc financial and business models to help flip the journals portfolios of various scholarly societies, including the American Anthropological Association, the European Association of Social Anthropologists, the European Association of Archaeologists and the Society for Social Studies of Science (4S), amongst others.
+Some of our published work on this front includes:
+ Why an Open Access Publishing Cooperative can Work https://doi.</description>
+    </item>
+    
+    <item>
+      <title>Subscribe-to-Open</title>
+      <link>http://libraria.cc/program-areas/subscribe-to-open/</link>
+      <pubDate>Tue, 24 Oct 2017 23:01:01 +0000</pubDate>
+      
+      <guid>http://libraria.cc/program-areas/subscribe-to-open/</guid>
+      <description>Libraria is an open access initiative formed in 2015 by an international group of researchers in the social sciences who are committed to helping scholarly societies and publishers adopt open access publishing models. After exploring a number of strategies, it is now working on a very promising subscribe-to-open (S2O) approach to converting subscription journals to open access. The model builds on a tradition of academic libraries’ support for open access, which has found fruitful expression in such initiatives as SCOAP3, Open Library of the Humanities, and Knowledge Unlatched.</description>
+    </item>
+    
+  </channel>
+</rss>
